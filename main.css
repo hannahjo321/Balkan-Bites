@@ -1,0 +1,62 @@
+body{
+  background-image: url(img/mountains.png);
+  background-size: 1920px 100px;
+  background-repeat: no-repeat;
+  background-position: top-center;
+  background-color: #48489e !important;
+  margin:0px !important;
+}
+
+
+
+.logo{
+  position: absolute;
+  z-index: 1;
+  left: auto;
+  right: auto;
+  top: 0px;
+}
+
+.were{
+  z-index:1
+}
+
+.wave{
+  margin-left:0px
+}
+
+.tweet{
+  background-color: #fff
+}
+
+
+h1 {
+  padding: 20px;
+  background-color: #fff
+}
+
+.were {
+  padding: 20px;
+  background-color: #fff
+}
+
+.chef{
+  background color:#48489e;
+
+}
+
+.who.container{
+  background-color: #ffce07;
+  margin: 0px;
+
+}
+
+.copy{
+  background-color: #fff;
+  padding: 50px;
+}
+
+.bottom {
+  background-color: #9bc7eb;
+  padding: 30px;
+}
