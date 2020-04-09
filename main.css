@@ -7,48 +7,65 @@ body{
   margin:0px !important;
 }
 
-
-
 .logo{
   position: absolute;
-  z-index: 1;
+  z-index: 2;
   left: auto;
   right: auto;
   top: 0px;
 }
 
-.were{
-  z-index:1
+.dropdown{
+  z-index:1;
+  margin-top:125px;
+  margin-left: 10px;
 }
 
-.wave{
-  margin-left:0px
+.space{
+  margin-right: 70px;
+}
+
+.hamenu{
+  height: 40px;
+  margin-left: 20px;
+  margin-top:-10px
+
+}
+
+.btn{
+  background-color: #ffce07;
 }
 
 .tweet{
   background-color: #fff
 }
 
-
-h1 {
-  padding: 20px;
-  background-color: #fff
-}
-
-.were {
-  padding: 20px;
-  background-color: #fff
-}
-
-.chef{
-  background color:#48489e;
+h2 {
+  padding: 10px;
+  background-color: #fff;
 
 }
 
-.who.container{
+.bnt {
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  margin-top: 110px;
+}
+
+.chef {
+  background-image: url(img/chef.jpg);
+  background-size: 1080px;
+  background-position: top;
+  height: 500px;
+  margin-bottom: 50px;
+}
+
+.who{
   background-color: #ffce07;
-  margin: 0px;
-
+  padding-bottom: 20px;
+  margin-bottom: 80px;
 }
 
 .copy{
@@ -56,7 +73,21 @@ h1 {
   padding: 50px;
 }
 
+.wave{
+  background-image:url(img/waves.png);
+  background-size: 1080px;
+  height:55px;
+  background-position: bottom;
+  margin-top:50px;
+}
+
 .bottom {
   background-color: #9bc7eb;
   padding: 30px;
+  text-align:center;
+}
+
+.backgroundcolor{
+  background-color: #ffce07;
+  padding-top: 50px;
 }
